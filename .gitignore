@@ -3,3 +3,6 @@ obj
 *.sln
 .env
 .env.local
+labenv/
+__pycache__/
+*.pyc
